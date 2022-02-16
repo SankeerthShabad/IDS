@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <Assault index="3">Assault</Assault>
+    <Murder index="2">Murder</Murder>
+    <Pop_Percentage index="5">Pop Percentage</Pop_Percentage>
+    <State index="1">State</State>
+    <UrbanPop index="4">UrbanPop</UrbanPop>
+  </columns>
+  <records>
+    <record index="1">
+      <Assault>236</Assault>
+      <Murder>13.2</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Alabama</State>
+      <UrbanPop>58</UrbanPop>
+    </record>
+    <record index="2">
+      <Assault>263</Assault>
+      <Murder>10</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>Alaska</State>
+      <UrbanPop>48</UrbanPop>
+    </record>
+    <record index="3">
+      <Assault>294</Assault>
+      <Murder>8.1</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Arizona</State>
+      <UrbanPop>80</UrbanPop>
+    </record>
+    <record index="4">
+      <Assault>190</Assault>
+      <Murder>8.8</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Arkansas</State>
+      <UrbanPop>50</UrbanPop>
+    </record>
+    <record index="5">
+      <Assault>276</Assault>
+      <Murder>9</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>California</State>
+      <UrbanPop>91</UrbanPop>
+    </record>
+    <record index="6">
+      <Assault>204</Assault>
+      <Murder>7.9</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Colorado</State>
+      <UrbanPop>78</UrbanPop>
+    </record>
+    <record index="7">
+      <Assault>110</Assault>
+      <Murder>3.3</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Connecticut</State>
+      <UrbanPop>77</UrbanPop>
+    </record>
+    <record index="8">
+      <Assault>238</Assault>
+      <Murder>5.9</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Delaware</State>
+      <UrbanPop>72</UrbanPop>
+    </record>
+    <record index="9">
+      <Assault>335</Assault>
+      <Murder>15.4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Florida</State>
+      <UrbanPop>80</UrbanPop>
+    </record>
+    <record index="10">
+      <Assault>159</Assault>
+      <Murder>17.4</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Georgia</State>
+      <UrbanPop>60</UrbanPop>
+    </record>
+    <record index="11">
+      <Assault>46</Assault>
+      <Murder>5.3</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Hawaii</State>
+      <UrbanPop>83</UrbanPop>
+    </record>
+    <record index="12">
+      <Assault>120</Assault>
+      <Murder>2.6</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Idaho</State>
+      <UrbanPop>54</UrbanPop>
+    </record>
+    <record index="13">
+      <Assault>249</Assault>
+      <Murder>10.4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Illinois</State>
+      <UrbanPop>83</UrbanPop>
+    </record>
+    <record index="14">
+      <Assault>113</Assault>
+      <Murder>7.2</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Indiana</State>
+      <UrbanPop>65</UrbanPop>
+    </record>
+    <record index="15">
+      <Assault>56</Assault>
+      <Murder>2.2</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Iowa</State>
+      <UrbanPop>57</UrbanPop>
+    </record>
+    <record index="16">
+      <Assault>115</Assault>
+      <Murder>6</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Kansas</State>
+      <UrbanPop>66</UrbanPop>
+    </record>
+    <record index="17">
+      <Assault>109</Assault>
+      <Murder>9.7</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Kentucky</State>
+      <UrbanPop>52</UrbanPop>
+    </record>
+    <record index="18">
+      <Assault>249</Assault>
+      <Murder>15.4</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Louisiana</State>
+      <UrbanPop>66</UrbanPop>
+    </record>
+    <record index="19">
+      <Assault>83</Assault>
+      <Murder>2.1</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Maine</State>
+      <UrbanPop>51</UrbanPop>
+    </record>
+    <record index="20">
+      <Assault>300</Assault>
+      <Murder>11.3</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Maryland</State>
+      <UrbanPop>67</UrbanPop>
+    </record>
+    <record index="21">
+      <Assault>149</Assault>
+      <Murder>4.4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Massachusetts</State>
+      <UrbanPop>85</UrbanPop>
+    </record>
+    <record index="22">
+      <Assault>255</Assault>
+      <Murder>12.1</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Michigan</State>
+      <UrbanPop>74</UrbanPop>
+    </record>
+    <record index="23">
+      <Assault>72</Assault>
+      <Murder>2.7</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Minnesota</State>
+      <UrbanPop>66</UrbanPop>
+    </record>
+    <record index="24">
+      <Assault>259</Assault>
+      <Murder>16.1</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>Mississippi</State>
+      <UrbanPop>44</UrbanPop>
+    </record>
+    <record index="25">
+      <Assault>178</Assault>
+      <Murder>9</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Missouri</State>
+      <UrbanPop>70</UrbanPop>
+    </record>
+    <record index="26">
+      <Assault>109</Assault>
+      <Murder>6</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Montana</State>
+      <UrbanPop>53</UrbanPop>
+    </record>
+    <record index="27">
+      <Assault>102</Assault>
+      <Murder>4.3</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Nebraska</State>
+      <UrbanPop>62</UrbanPop>
+    </record>
+    <record index="28">
+      <Assault>252</Assault>
+      <Murder>12.2</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Nevada</State>
+      <UrbanPop>81</UrbanPop>
+    </record>
+    <record index="29">
+      <Assault>57</Assault>
+      <Murder>2.1</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>New Hampshire</State>
+      <UrbanPop>56</UrbanPop>
+    </record>
+    <record index="30">
+      <Assault>159</Assault>
+      <Murder>7.4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>New Jersey</State>
+      <UrbanPop>89</UrbanPop>
+    </record>
+    <record index="31">
+      <Assault>285</Assault>
+      <Murder>11.4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>New Mexico</State>
+      <UrbanPop>70</UrbanPop>
+    </record>
+    <record index="32">
+      <Assault>254</Assault>
+      <Murder>11.1</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>New York</State>
+      <UrbanPop>86</UrbanPop>
+    </record>
+    <record index="33">
+      <Assault>337</Assault>
+      <Murder>13</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>North Carolina</State>
+      <UrbanPop>45</UrbanPop>
+    </record>
+    <record index="34">
+      <Assault>45</Assault>
+      <Murder>0.8</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>North Dakota</State>
+      <UrbanPop>44</UrbanPop>
+    </record>
+    <record index="35">
+      <Assault>120</Assault>
+      <Murder>7.3</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Ohio</State>
+      <UrbanPop>75</UrbanPop>
+    </record>
+    <record index="36">
+      <Assault>151</Assault>
+      <Murder>6.6</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Oklahoma</State>
+      <UrbanPop>68</UrbanPop>
+    </record>
+    <record index="37">
+      <Assault>159</Assault>
+      <Murder>4.9</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Oregon</State>
+      <UrbanPop>67</UrbanPop>
+    </record>
+    <record index="38">
+      <Assault>106</Assault>
+      <Murder>6.3</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Pennsylvania</State>
+      <UrbanPop>72</UrbanPop>
+    </record>
+    <record index="39">
+      <Assault>174</Assault>
+      <Murder>3.4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Rhode Island</State>
+      <UrbanPop>87</UrbanPop>
+    </record>
+    <record index="40">
+      <Assault>279</Assault>
+      <Murder>14.4</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>South Carolina</State>
+      <UrbanPop>48</UrbanPop>
+    </record>
+    <record index="41">
+      <Assault>86</Assault>
+      <Murder>3.8</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>South Dakota</State>
+      <UrbanPop>45</UrbanPop>
+    </record>
+    <record index="42">
+      <Assault>188</Assault>
+      <Murder>13.2</Murder>
+      <Pop_Percentage>Medium</Pop_Percentage>
+      <State>Tennessee</State>
+      <UrbanPop>59</UrbanPop>
+    </record>
+    <record index="43">
+      <Assault>201</Assault>
+      <Murder>12.7</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Texas</State>
+      <UrbanPop>80</UrbanPop>
+    </record>
+    <record index="44">
+      <Assault>120</Assault>
+      <Murder>3.2</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Utah</State>
+      <UrbanPop>80</UrbanPop>
+    </record>
+    <record index="45">
+      <Assault>48</Assault>
+      <Murder>2.2</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>Vermont</State>
+      <UrbanPop>32</UrbanPop>
+    </record>
+    <record index="46">
+      <Assault>156</Assault>
+      <Murder>8.5</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Virginia</State>
+      <UrbanPop>63</UrbanPop>
+    </record>
+    <record index="47">
+      <Assault>145</Assault>
+      <Murder>4</Murder>
+      <Pop_Percentage>Extra large</Pop_Percentage>
+      <State>Washington</State>
+      <UrbanPop>73</UrbanPop>
+    </record>
+    <record index="48">
+      <Assault>81</Assault>
+      <Murder>5.7</Murder>
+      <Pop_Percentage>Small</Pop_Percentage>
+      <State>West Virginia</State>
+      <UrbanPop>39</UrbanPop>
+    </record>
+    <record index="49">
+      <Assault>53</Assault>
+      <Murder>2.6</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Wisconsin</State>
+      <UrbanPop>66</UrbanPop>
+    </record>
+    <record index="50">
+      <Assault>161</Assault>
+      <Murder>6.8</Murder>
+      <Pop_Percentage>Large</Pop_Percentage>
+      <State>Wyoming</State>
+      <UrbanPop>60</UrbanPop>
+    </record>
+  </records>
+</data>
