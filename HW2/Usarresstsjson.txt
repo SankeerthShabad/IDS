@@ -1,0 +1,365 @@
+{
+  "data": {
+    "columns": {
+      "Assault": "Assault",
+      "Murder": "Murder",
+      "Pop_Percentage": "Pop Percentage",
+      "State": "State",
+      "UrbanPop": "UrbanPop"
+    },
+    "records": {
+      "record": [
+        {
+          "Assault": 236,
+          "Murder": 13.2,
+          "Pop_Percentage": "Medium",
+          "State": "Alabama",
+          "UrbanPop": 58
+        },
+        {
+          "Assault": 263,
+          "Murder": 10,
+          "Pop_Percentage": "Small",
+          "State": "Alaska",
+          "UrbanPop": 48
+        },
+        {
+          "Assault": 294,
+          "Murder": 8.1,
+          "Pop_Percentage": "Extra large",
+          "State": "Arizona",
+          "UrbanPop": 80
+        },
+        {
+          "Assault": 190,
+          "Murder": 8.8,
+          "Pop_Percentage": "Medium",
+          "State": "Arkansas",
+          "UrbanPop": 50
+        },
+        {
+          "Assault": 276,
+          "Murder": 9,
+          "Pop_Percentage": "Extra large",
+          "State": "California",
+          "UrbanPop": 91
+        },
+        {
+          "Assault": 204,
+          "Murder": 7.9,
+          "Pop_Percentage": "Extra large",
+          "State": "Colorado",
+          "UrbanPop": 78
+        },
+        {
+          "Assault": 110,
+          "Murder": 3.3,
+          "Pop_Percentage": "Extra large",
+          "State": "Connecticut",
+          "UrbanPop": 77
+        },
+        {
+          "Assault": 238,
+          "Murder": 5.9,
+          "Pop_Percentage": "Extra large",
+          "State": "Delaware",
+          "UrbanPop": 72
+        },
+        {
+          "Assault": 335,
+          "Murder": 15.4,
+          "Pop_Percentage": "Extra large",
+          "State": "Florida",
+          "UrbanPop": 80
+        },
+        {
+          "Assault": 159,
+          "Murder": 17.4,
+          "Pop_Percentage": "Large",
+          "State": "Georgia",
+          "UrbanPop": 60
+        },
+        {
+          "Assault": 46,
+          "Murder": 5.3,
+          "Pop_Percentage": "Extra large",
+          "State": "Hawaii",
+          "UrbanPop": 83
+        },
+        {
+          "Assault": 120,
+          "Murder": 2.6,
+          "Pop_Percentage": "Medium",
+          "State": "Idaho",
+          "UrbanPop": 54
+        },
+        {
+          "Assault": 249,
+          "Murder": 10.4,
+          "Pop_Percentage": "Extra large",
+          "State": "Illinois",
+          "UrbanPop": 83
+        },
+        {
+          "Assault": 113,
+          "Murder": 7.2,
+          "Pop_Percentage": "Large",
+          "State": "Indiana",
+          "UrbanPop": 65
+        },
+        {
+          "Assault": 56,
+          "Murder": 2.2,
+          "Pop_Percentage": "Medium",
+          "State": "Iowa",
+          "UrbanPop": 57
+        },
+        {
+          "Assault": 115,
+          "Murder": 6,
+          "Pop_Percentage": "Large",
+          "State": "Kansas",
+          "UrbanPop": 66
+        },
+        {
+          "Assault": 109,
+          "Murder": 9.7,
+          "Pop_Percentage": "Medium",
+          "State": "Kentucky",
+          "UrbanPop": 52
+        },
+        {
+          "Assault": 249,
+          "Murder": 15.4,
+          "Pop_Percentage": "Large",
+          "State": "Louisiana",
+          "UrbanPop": 66
+        },
+        {
+          "Assault": 83,
+          "Murder": 2.1,
+          "Pop_Percentage": "Medium",
+          "State": "Maine",
+          "UrbanPop": 51
+        },
+        {
+          "Assault": 300,
+          "Murder": 11.3,
+          "Pop_Percentage": "Large",
+          "State": "Maryland",
+          "UrbanPop": 67
+        },
+        {
+          "Assault": 149,
+          "Murder": 4.4,
+          "Pop_Percentage": "Extra large",
+          "State": "Massachusetts",
+          "UrbanPop": 85
+        },
+        {
+          "Assault": 255,
+          "Murder": 12.1,
+          "Pop_Percentage": "Extra large",
+          "State": "Michigan",
+          "UrbanPop": 74
+        },
+        {
+          "Assault": 72,
+          "Murder": 2.7,
+          "Pop_Percentage": "Large",
+          "State": "Minnesota",
+          "UrbanPop": 66
+        },
+        {
+          "Assault": 259,
+          "Murder": 16.1,
+          "Pop_Percentage": "Small",
+          "State": "Mississippi",
+          "UrbanPop": 44
+        },
+        {
+          "Assault": 178,
+          "Murder": 9,
+          "Pop_Percentage": "Extra large",
+          "State": "Missouri",
+          "UrbanPop": 70
+        },
+        {
+          "Assault": 109,
+          "Murder": 6,
+          "Pop_Percentage": "Medium",
+          "State": "Montana",
+          "UrbanPop": 53
+        },
+        {
+          "Assault": 102,
+          "Murder": 4.3,
+          "Pop_Percentage": "Large",
+          "State": "Nebraska",
+          "UrbanPop": 62
+        },
+        {
+          "Assault": 252,
+          "Murder": 12.2,
+          "Pop_Percentage": "Extra large",
+          "State": "Nevada",
+          "UrbanPop": 81
+        },
+        {
+          "Assault": 57,
+          "Murder": 2.1,
+          "Pop_Percentage": "Medium",
+          "State": "New Hampshire",
+          "UrbanPop": 56
+        },
+        {
+          "Assault": 159,
+          "Murder": 7.4,
+          "Pop_Percentage": "Extra large",
+          "State": "New Jersey",
+          "UrbanPop": 89
+        },
+        {
+          "Assault": 285,
+          "Murder": 11.4,
+          "Pop_Percentage": "Extra large",
+          "State": "New Mexico",
+          "UrbanPop": 70
+        },
+        {
+          "Assault": 254,
+          "Murder": 11.1,
+          "Pop_Percentage": "Extra large",
+          "State": "New York",
+          "UrbanPop": 86
+        },
+        {
+          "Assault": 337,
+          "Murder": 13,
+          "Pop_Percentage": "Small",
+          "State": "North Carolina",
+          "UrbanPop": 45
+        },
+        {
+          "Assault": 45,
+          "Murder": 0.8,
+          "Pop_Percentage": "Small",
+          "State": "North Dakota",
+          "UrbanPop": 44
+        },
+        {
+          "Assault": 120,
+          "Murder": 7.3,
+          "Pop_Percentage": "Extra large",
+          "State": "Ohio",
+          "UrbanPop": 75
+        },
+        {
+          "Assault": 151,
+          "Murder": 6.6,
+          "Pop_Percentage": "Large",
+          "State": "Oklahoma",
+          "UrbanPop": 68
+        },
+        {
+          "Assault": 159,
+          "Murder": 4.9,
+          "Pop_Percentage": "Large",
+          "State": "Oregon",
+          "UrbanPop": 67
+        },
+        {
+          "Assault": 106,
+          "Murder": 6.3,
+          "Pop_Percentage": "Extra large",
+          "State": "Pennsylvania",
+          "UrbanPop": 72
+        },
+        {
+          "Assault": 174,
+          "Murder": 3.4,
+          "Pop_Percentage": "Extra large",
+          "State": "Rhode Island",
+          "UrbanPop": 87
+        },
+        {
+          "Assault": 279,
+          "Murder": 14.4,
+          "Pop_Percentage": "Small",
+          "State": "South Carolina",
+          "UrbanPop": 48
+        },
+        {
+          "Assault": 86,
+          "Murder": 3.8,
+          "Pop_Percentage": "Small",
+          "State": "South Dakota",
+          "UrbanPop": 45
+        },
+        {
+          "Assault": 188,
+          "Murder": 13.2,
+          "Pop_Percentage": "Medium",
+          "State": "Tennessee",
+          "UrbanPop": 59
+        },
+        {
+          "Assault": 201,
+          "Murder": 12.7,
+          "Pop_Percentage": "Extra large",
+          "State": "Texas",
+          "UrbanPop": 80
+        },
+        {
+          "Assault": 120,
+          "Murder": 3.2,
+          "Pop_Percentage": "Extra large",
+          "State": "Utah",
+          "UrbanPop": 80
+        },
+        {
+          "Assault": 48,
+          "Murder": 2.2,
+          "Pop_Percentage": "Small",
+          "State": "Vermont",
+          "UrbanPop": 32
+        },
+        {
+          "Assault": 156,
+          "Murder": 8.5,
+          "Pop_Percentage": "Large",
+          "State": "Virginia",
+          "UrbanPop": 63
+        },
+        {
+          "Assault": 145,
+          "Murder": 4,
+          "Pop_Percentage": "Extra large",
+          "State": "Washington",
+          "UrbanPop": 73
+        },
+        {
+          "Assault": 81,
+          "Murder": 5.7,
+          "Pop_Percentage": "Small",
+          "State": "West Virginia",
+          "UrbanPop": 39
+        },
+        {
+          "Assault": 53,
+          "Murder": 2.6,
+          "Pop_Percentage": "Large",
+          "State": "Wisconsin",
+          "UrbanPop": 66
+        },
+        {
+          "Assault": 161,
+          "Murder": 6.8,
+          "Pop_Percentage": "Large",
+          "State": "Wyoming",
+          "UrbanPop": 60
+        }
+      ]
+    }
+  }
+}
